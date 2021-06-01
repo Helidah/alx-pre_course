@@ -1,0 +1,1 @@
+This file is for the new *directory* created. It is a readme file and is useful in passing **information** quickly to other coders.
